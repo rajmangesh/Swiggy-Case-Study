@@ -29,3 +29,11 @@ The following analyses were performed on the data:
 8. Find each customer's favorite food item.
    
 The SQL code for each analysis is provided in the querie.sql file.
+
+## MySQL Skills Demonstrated
+This case study exemplifies MySQL skills including:
+- JOINs to connect data from multiple tables
+- Aggregate functions like COUNT, SUM, AVG
+- DATE functions to analyze by time period
+- Subqueries 
+- Basic data cleaning and transformations
