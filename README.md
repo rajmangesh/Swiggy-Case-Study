@@ -27,4 +27,4 @@ The following analyses were performed on the data:
 6. Determine restaurants with the most repeat customers
 7. Calculate month-over-month revenue growth for Swiggy
 8. Find each customer's favorite food item
-9. The SQL code for each analysis is provided in the queries.sql file.
+The SQL code for each analysis is provided in the querie.sql file.
