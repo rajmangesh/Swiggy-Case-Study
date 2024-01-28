@@ -17,3 +17,14 @@ The data includes mock information on customers, restaurants, orders, and order 
 5. restaurents - r_id, r_name, cuisine
 6. users - user_id, name, email, password
 
+## Analysis
+The following analyses were performed on the data:
+1. Find customers who have never ordered
+2. Calculate the average price per dish
+3. Identify the top restaurant in terms of number of orders for a given month
+4. Find restaurants with monthly sales greater than a threshold
+5. Show all orders for a customer in a date range
+6. Determine restaurants with the most repeat customers
+7. Calculate month-over-month revenue growth for Swiggy
+8. Find each customer's favorite food item
+9. The SQL code for each analysis is provided in the queries.sql file.
